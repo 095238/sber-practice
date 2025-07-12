@@ -1,1 +1,1 @@
-# sber-practice-jdbc
+# sber-practice
